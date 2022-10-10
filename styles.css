@@ -128,4 +128,8 @@ label {
     background-color: #37af65;
     border: 0;
     color: #ffffff;
+    transition: .1s linear;
+}
+.submit-button:hover {
+    background-color: #277b47;
 }
