@@ -1,2 +1,2 @@
-# Design Registration Form
+# Registration form design
 [Visit](https://dyingsenpai.github.io/SurveyForm/)
